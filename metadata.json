@@ -1,0 +1,7 @@
+{
+  "name": "Yatri Nepal - Ride Hailing System",
+  "description": "A comprehensive, nationwide ride-hailing platform for Nepal supporting Cars, Bikes, Auto-rickshaws, and E-rickshaws with AI-powered fare prediction and route optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
